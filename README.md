@@ -4,6 +4,9 @@
   <a href="https://github.com/LucianoContri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoContri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoContri&layout=compact&langs_count=7&theme=dark"/>
+</div> 
+<div style="display: inline_block"><br>
+<img align="center" alt="L-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
 
 - 🔭 I’m currently working on ...
