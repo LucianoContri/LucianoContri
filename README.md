@@ -21,6 +21,8 @@
   ![Snake animation](https://github.com/LucianoContri/LucianoContri/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-Engenheiro de Computação apaixonado e fluente em inglês, com uma experiência diversificada em desenvolvimento e suporte técnico. Comecei minha jornada como estagiário no IESB, onde acumulei experiência de 2 anos criando soluções de suporte técnico, como a criação de imagens para instalação em computadores, manutenção de equipamentos e configuração de sistemas de rede. Através do gerenciamento de planilhas e suporte aos professores, pude refinar minhas habilidades em resolução de problemas e gestão de tempo.
+### Engenheiro de Computação e Cientista de Dados
 
-Além disso, destaco minha competência em desenvolvimento de software, especialmente na criação de aplicativos mobile. No meu projeto de TCC, desenvolvi um sistema de controle de acesso utilizando Flutter, Firebase e Arduino, que reforça minha habilidade em lidar com diversas tecnologias e linguagens de programação. Através da criação de soluções utilizando banco de dados noSQL e autenticação, estou sempre pronto para enfrentar desafios complexos de TI e inovar.
+Engenheiro de Computação e Cientista de Dados, fluente em inglês, com experiência em análise de dados, desenvolvimento de modelos preditivos e machine learning. Minha trajetória inclui projetos de análise de sentimentos, otimização de planejamento de manutenção e implementação de modelos de machine learning e deep learning.
+
+Atuo na aplicação de técnicas de aprendizado de máquina para prever falhas e reduzir custos, utilizando ferramentas como Python, Pandas, Scikit-Learn e TensorFlow. Sempre em busca de novos desafios, estou comprometido com a inovação e a melhoria contínua.
