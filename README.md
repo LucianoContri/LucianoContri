@@ -12,7 +12,7 @@
 <img align="center" alt="L-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="L-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
-<img align="center" alt="L-jupyter" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg)">
+<img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
   
