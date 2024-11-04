@@ -21,8 +21,5 @@
   ![Snake animation](https://github.com/LucianoContri/LucianoContri/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-### Engenheiro de Computação e Cientista de Dados
-
-Engenheiro de Computação e Cientista de Dados, fluente em inglês, com experiência em análise de dados, desenvolvimento de modelos preditivos e machine learning. Minha trajetória inclui projetos de análise de sentimentos, otimização de planejamento de manutenção e implementação de modelos de machine learning e deep learning.
-
-Atuo na aplicação de técnicas de aprendizado de máquina para prever falhas e reduzir custos, utilizando ferramentas como Python, Pandas, Scikit-Learn e TensorFlow. Sempre em busca de novos desafios, estou comprometido com a inovação e a melhoria contínua.
+### Computer Engineer and Data Scientist
+Computer Engineer and Data Scientist fluent in English, with strong foundations in mathematics and statistics applied to data analysis. Experienced in predictive modeling, machine learning, and deep learning, with projects in sentiment analysis and maintenance planning optimization. Skilled in Python, Pandas, Scikit-Learn, TensorFlow, and Keras, with knowledge in Big Data, ETL, MLflow, Azure, Docker, Dremio, Kafka, and Airflow. Recently worked on Data Visualization with Tableau and Power BI. Passionate about innovation and continuous improvement, dedicated to transforming data into actionable insights.
