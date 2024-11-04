@@ -10,8 +10,24 @@
 <img align="center" alt="L-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 <img align="center" alt="L-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
+  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
+  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
 </div>
 
+
+
+
+
+
+   <!-- 
+https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg
+-->
   
   ##
 
