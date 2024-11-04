@@ -6,15 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoContri&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 <div style="display: inline_block"><br>
-<img align="center" alt="L-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-<img align="center" alt="L-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-<img align="center" alt="L-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="L-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
+<img align="center" alt="L-python" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="L-jupyter" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
 </div>
 
 
@@ -23,6 +21,8 @@
 
 
    <!-- 
+   <img align="center" alt="L-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="L-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg
 https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg
