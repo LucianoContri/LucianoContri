@@ -22,4 +22,27 @@
 </div>
 
 ### Computer Engineer and Data Scientist
-Computer Engineer and Data Scientist fluent in English, with strong foundations in mathematics and statistics applied to data analysis. Experienced in predictive modeling, machine learning, and deep learning, with projects in sentiment analysis and maintenance planning optimization. Skilled in Python, Pandas, Scikit-Learn, TensorFlow, and Keras, with knowledge in Big Data, ETL, MLflow, Azure, Docker, Dremio, Kafka, and Airflow. Recently worked on Data Visualization with Tableau and Power BI. Passionate about innovation and continuous improvement, dedicated to transforming data into actionable insights.
+Computer Engineer and Data Scientist fluent in English, with strong foundations in mathematics and statistics applied to data analysis. Experienced in predictive modeling, machine learning, and deep learning, with projects in sentiment analysis and maintenance planning optimization.
+
+Skilled in:
+- Python
+- Pandas
+- Scikit-Learn
+- Statsmodels
+- Streamlit
+- TensorFlow
+- Keras
+- Data mining
+- Tableau
+
+With knowledge in: 
+- Big Data
+- ETL
+- MLflow
+- Azure
+- Docker
+- Dremio
+- Kafka
+- Airflow
+
+Recently worked on Data Visualization with Tableau and Power BI. Passionate about innovation and continuous improvement, dedicated to transforming data into actionable insights.
