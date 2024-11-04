@@ -1,4 +1,4 @@
-### Opa, Bão? 👋
+### Welcome, Stranger 👋
 
 <div align="center">
   <a href="https://github.com/LucianoContri">
